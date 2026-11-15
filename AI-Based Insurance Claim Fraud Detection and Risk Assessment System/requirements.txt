@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+# optional (fast auto EDA report, resource M1.3):
+# ydata-profiling
