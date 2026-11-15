@@ -1,0 +1,12 @@
+{
+  "imbalance": {
+    "n_rows": 15420,
+    "n_fraud": 923,
+    "n_legit": 14497,
+    "fraud_rate_pct": 5.986,
+    "imbalance_ratio_IR": 15.71
+  },
+  "n_columns": 33,
+  "duplicate_rows": 0,
+  "constant_columns": []
+}

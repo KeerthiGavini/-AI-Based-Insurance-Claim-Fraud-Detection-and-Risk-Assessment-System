@@ -1,0 +1,17 @@
+{
+  "train": {
+    "rows": 10794,
+    "fraud": 646,
+    "fraud_pct": 5.985
+  },
+  "val": {
+    "rows": 2313,
+    "fraud": 139,
+    "fraud_pct": 6.01
+  },
+  "test": {
+    "rows": 2313,
+    "fraud": 138,
+    "fraud_pct": 5.966
+  }
+}
